@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/FireWxt/aim-manager-releases/releases/latest"><img src="https://img.shields.io/github/v/release/FireWxt/aim-manager-releases?label=version&color=ff4655&style=for-the-badge" alt="Version"></a>
+  <a href="https://github.com/FireWxt/aim-manager-releases/releases/latest"><img src="https://img.shields.io/github/v/release/FireWxt/aim-manager-releases?label=version&color=5b8cff&style=for-the-badge" alt="Version"></a>
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
   <img src="https://img.shields.io/github/downloads/FireWxt/aim-manager-releases/total?color=2dd4bf&style=for-the-badge&label=t%C3%A9l%C3%A9chargements" alt="Téléchargements">
 </p>
