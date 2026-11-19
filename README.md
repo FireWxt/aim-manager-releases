@@ -46,6 +46,10 @@
   <img src="docs/heatmaps.png" alt="Heatmaps" width="440">
 </p>
 
+<p align="center">
+  <img src="docs/history.png" alt="Historique des parties" width="900">
+</p>
+
 ## 🚀 Installation
 
 1. Télécharge **`AimManager-x.y.z.zip`** dans la [dernière release](https://github.com/FireWxt/aim-manager-releases/releases/latest).
