@@ -30,9 +30,11 @@
 | | |
 |---|---|
 | 🎯 **Conseils personnalisés** | Compétences négligées, plateaux, précision sacrifiée pour la vitesse, overflicks, irrégularité… rangés par priorité. |
-| 🗓️ **Programme du jour** | Une session d'environ 25 min : échauffement, 3 blocs sur tes points faibles, puis une tentative de record. |
+| ⏱️ **Récap de session** | Pendant que tu joues : durée, parties, records battus, forme par rapport à ta moyenne et détail par scénario. |
+| 🗓️ **Programme du jour** | Une session d'environ 25 min : échauffement, 3 blocs sur tes points faibles, puis une tentative de record. Les étapes se cochent toutes seules au fil de tes parties. |
+| 🏁 **Objectifs** | Fixe un score à atteindre sur un scénario : barre de progression, ligne d'objectif sur la courbe et notification quand tu l'atteins. |
 | 📊 **Profil par compétence** | Clicking, micro-ajustement, flick, target switch, timing, tracking : ton temps passé sur chacune, comparé à la répartition conseillée pour Valorant. |
-| 📈 **Suivi par scénario** | Courbe de score, moyenne glissante, records, précision, régularité, progression depuis tes débuts. |
+| 📈 **Suivi par scénario** | Courbe de score (30 jours, 90 jours ou tout), moyenne glissante, records, précision, régularité, progression depuis tes débuts. |
 | 🔥 **Heatmaps** | Un calendrier de tes meilleures journées, et le rythme de tes kills au fil de la partie pour voir où tu ralentis. |
 | 🔔 **En direct** | L'app se met à jour dès que tu finis une partie, avec une notification Windows quand tu bats un record. |
 | ⚙️ **Réglages** | Vérifie que KovaaK's est réglé comme Valorant (sens, FOV 103), et calcule ton eDPI et ton cm/360. |
